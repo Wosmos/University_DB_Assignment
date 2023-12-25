@@ -39,8 +39,5 @@ And there you have it, a full setup of Basic Live News Portal System in PHP MySQ
 
 Database Name: livenews
 
-Username: admin <br/>
-
-Password: Watch Youtube ( Video )
 
 
